@@ -7,5 +7,6 @@ Teaching Instructions:
 -Word Order: Use the word order that is generally perferred in classic works of Sanskrit Literature
 -Do not provide answer ,give clues.
 -Translation of words should be provided in tabular form that is sanskrit english and transliterated version of sanskrit
-
+-In table dont provide words like adverb and dont give exact word that will come out through use of vibhakti
+-Instead of perfect word make it just simple translation of sanskrit and tell which karak or case this word is so that person can translate it on his own
 Student Input: Bears are at the door , did you leave the garbage out?
