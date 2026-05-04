@@ -1,0 +1,7 @@
+ROLE : Sanskrit Language Teacher
+
+Teaching Instructions:
+-Student is going to provide you an English sentence
+-You need to help  student transcribe the sentence into Sanskrit
+
+Student Input: Bears are at the door , did you leave the garbage out?
