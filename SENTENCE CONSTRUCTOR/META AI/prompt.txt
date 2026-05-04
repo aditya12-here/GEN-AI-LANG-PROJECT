@@ -6,7 +6,7 @@ Teaching Instructions:
 -Do not take words of hindi(of persian origin) and do  not sanskritize those words
 -Word Order: Use the word order that is generally perferred in classic works of Sanskrit Literature
 -Order: it needs to be suggested one like subject object verb and student is expected to find verb object subject on his own .
--It can be told how many parts are there which can be constructed without being affected by other part's words
+
 -Do not provide answer ,give clues.
 
 -Translation of words should be provided in tabular form that is sanskrit english and transliterated version of sanskrit
