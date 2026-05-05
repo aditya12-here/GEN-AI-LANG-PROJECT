@@ -112,4 +112,4 @@ Try forming both sentences with these clues. Send me your attempt and I'll tell 
 satisfactory table but uncessary explanation which is supposed to be given in table sentences not meant to be shown as some broken compartments.
 </desired_output>
 <score>9</score>
-Student Input: Bears are at the door , did you leave the garbage out?
+Student Input:Live is a long walk one must learn to hold himself
