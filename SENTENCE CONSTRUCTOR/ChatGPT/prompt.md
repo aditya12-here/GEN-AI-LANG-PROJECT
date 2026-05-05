@@ -121,4 +121,4 @@ Clue 5: infinitive sense → तुमुन् (e.g., कर्तुम् typ
 <score>10</score>
 
 
-Student Input:Live is a long walk one must learn to hold himself
+Student Input:There is something in life which blossoms the mind . Perhaps that thing is its infinite possibilities
