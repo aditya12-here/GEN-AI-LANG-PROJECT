@@ -230,5 +230,81 @@ vismṛtiḥ           यह संज्ञा है, क्रिया न�
 Follow each mentioned instruction above-
 Student Input:"A long walk into uncertainity"
 
+After three answers regarding the sanskrit translation has been done follow the given sequence from Chat_Instructions
+Follow the below example for how to conduct chat session after three replies 
+-See these CHATS are from user who is practicing to speak therfore  they do not need to have exact flow as chatbot may intend
+-
+<Output>
+        <CHAT1>
+        उत्तमम्! तर्हि आगच्छ —
 
-<>
+        सही वाक्यः
+        दीर्घा पदयात्रा अनिश्चयम्
+        dīrghā padayātrā aniścayam
+        "A long walk into uncertainty"
+
+        अधुना वार्तालापः —
+        जो अनिश्चितता में चलता है, वह कभी-कभी वहाँ पहुँचता है जहाँ वह सोचता भी नहीं था।
+        यः अनिश्चये चलति, सः कदाचित् तत्र गच्छति यत्र सः न चिन्तयति स्म।
+        yaḥ aniścaye calati, saḥ kadācit tatra gacchati yatra saḥ na cintayati sma.
+
+        तव प्रश्नः —
+        "When you walk into the unknown, do you feel fear or curiosity?"
+        यदा त्वम् अज्ञाते चलसि, तदा किं अनुभवसि — भयम् आहोस्वित् जिज्ञासाम्?
+        yadā tvam ajñāte calasi, tadā kiṃ anubhavasi — bhayam āhosvit jijñāsām?
+
+        उत्तरं देहि — संस्कृते अथवा आङ्ग्लभाषायाम्। अहं प्रतीक्षे।
+        </CHAT1>
+
+        <CHAT2>
+        शुभम् अस्तु — सुन्दरः प्रयासः।
+
+        तव वाक्यस्य अर्थः
+
+        "अहं रम्यस्य मार्गम् अनुकृति इच्छया"
+
+        "I, with the desire to imitate/follow the pleasant path"
+        "मैं सुन्दर मार्ग का अनुसरण करने की इच्छा से [चलता हूँ]"
+
+        भाव स्पष्टः — जिज्ञासा और सौन्दर्य की ओर झुकाव दिखता है। उत्तमम्।
+
+        वार्तालापः —
+
+        सत्यम् — रम्यः मार्गः प्रायः अज्ञातः एव भवति। जिज्ञासा भयात् श्रेष्ठतरा।
+
+        satyam — ramyaḥ mārgaḥ prāyaḥ ajñātaḥ eva bhavati. jijñāsā bhayāt śreṣṭhatarā. "True — the beautiful path is often the unknown one. Curiosity is greater than fear."
+
+        अधुना तव प्रश्नः —
+
+        "But does the beautiful path always lead somewhere, or does it sometimes just end in the middle of nowhere?"
+
+        किन्तु किं रम्यः मार्गः सर्वदा कुत्रचित् नयति, आहोस्वित् कदाचित् मध्ये एव समाप्यते? kintu kiṃ ramyaḥ mārgaḥ sarvadā kutracit nayati, āhosvit kadācit madhye eva samāpyate?
+
+        उत्तरं देहि — अहं प्रतीक्षे।
+        </CHAT2>
+
+        <CHAT3>
+        शुभम् अस्तु — भावः अत्यन्तं सुन्दरः।
+
+        तव वाक्यस्य अर्थः
+        "पुरस्सम् अवश्यं भरि गच्छामि अन्यथा किं सर्वज्ञानं भविति भविष्य सन्दर्भे"
+
+        "I must go forward fully — otherwise what is all knowledge worth in the context of the future?"
+        "मुझे पूरी तरह आगे बढ़ना ही होगा — अन्यथा भविष्य के सन्दर्भ में सारा ज्ञान किस काम का?"
+
+        वाह — यह भाव गहरा है। साहस और ज्ञान का सुन्दर संगम।
+
+        वार्तालापः —
+        सत्यम् उक्तम् — ज्ञानं केवलं पुस्तके न, पादे च भवति। यः पुरः चलति, सः एव जानाति।
+        satyam uktam — jñānaṃ kevalaṃ pustake na, pāde ca bhavati. yaḥ puraḥ calati, saḥ eva jānāti.
+        "Well said — knowledge lives not only in books, but in the step forward. Only one who walks ahead truly knows."
+
+        अधुना तव प्रश्नः —
+        "And when the path ends and you have walked it fully — what will you carry back?"
+        यदा मार्गः समाप्यते त्वं च पूर्णतया चलितवान् — तदा किं त्वं स्वगृहं नेष्यसि?
+        yadā mārgaḥ samāpyate tvaṃ ca pūrṇatayā calitavān — tadā kiṃ tvaṃ svagṛhaṃ neṣyasi?
+
+        उत्तरं देहि — अहं प्रतीक्षे।
+        </CHAT3>
+
+</Outpur>
