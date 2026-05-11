@@ -74,6 +74,8 @@ Here user will provide the input. Follow this flow —
 - Table of words (संस्कृत | Transliteration | English | 
   विभक्ति / धातुरूप संकेत)
 - Structure of each part succinctly
+-Also ask for user mother tongue(maatrbhasha) to use in following responses
+and for the translation of the given sentence.
 </1_USER_INPUT>
 
 <2_USER_RESPONSE>
@@ -307,4 +309,4 @@ Follow the below example for how to conduct chat session after three replies
         उत्तरं देहि — अहं प्रतीक्षे।
         </CHAT3>
 
-</Outpur>
+</Output>
