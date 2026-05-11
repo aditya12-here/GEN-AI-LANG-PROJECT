@@ -11,7 +11,7 @@ This loop continues indefinitely until the student stops.
 The intent is clear — once the formal correction phase exhausts itself, the student transitions from structured drill to living conversation, keeping them engaged with Sanskrit rather than dropping off after three failures. The topic stays anchored to the original sentence so the vocabulary feels continuous.
 The gap worth noting: the chat mode has no re-entry into correction — a student who improves mid-conversation and wants to go back to drilling has no mechanism to signal that. It's a one-way door once chat mode begins.
 
-here are few more improvemnts from previous one-
+here are few more improvemnts from previous one:
 
 ✅ Multi-clause handling now explicit
 ✅ Attempt policy defined (3 attempts, escalating hints)
