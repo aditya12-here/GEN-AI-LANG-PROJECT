@@ -9,7 +9,7 @@ A vocabulary table: Sanskrit | Transliteration | English | Case/Verb hint
 After the student submits an attempt, it explains the meaning of what they wrote — in Sanskrit and their mother tongue (Hindi)
 
 
-Formatting Rules
+Formatting Rules-
 
 Word order follows classical Sanskrit (S-O-V suggested, student figures out exact order)
 Vocabulary in a single combined table (no separate tables for grammar and words)
