@@ -10,7 +10,7 @@ Student assembles the final sentence themselves
 
 Shortcomings
 No post-answer feedback instructions — the prompt has no guidance on what to do after the student submits a translation. Should it correct morphology, explain meaning, or both? This is entirely unspecified.
-Mother tongue assumed to be Hindi — never explicitly asked or detected, so the prompt breaks for any non-Hindi speaker.
+Mother tongue assumed to be Hindi — never explicitly asked or detected, therefore the prompt breaks for any non-Hindi speaker.
 Clue depth unspecified — no rule for how many clues to give per sentence part. Complex sentences risk either giving too much away or leaving the student stuck.
 No scaffolding for beginners — terms like prathamā vibhakti, laṭ lakāra, and tumuṇ are used without explanation, with no fallback for someone unfamiliar with Sanskrit grammar terminology.
 Romanisation standard unstated — IAST is implied but never mandated, risking inconsistent transliteration.
