@@ -2,4 +2,4 @@ Here I used ChatGPT,Claude,Meta AI to construct sentence constructor .Only the C
 One request is that sanskrit script is Devangari it doesnt havee much content into internet neither the strong hardware that embed its langauge but given its rich heritage it is very helpful to teach people of this langauge. This is why user responses are also accepted in transliterated form.
 Sentence structure was not much of a focus here since sanskrit is a language which has no official structure of SUBJECT VERB OBJECT in sanskrit use vibhakti, dhatu roop allows this flexible form but it is recommended to follow sentence form which is generally followed in sanskrit texts,literature.
 
-for  each chatbot's prompt detailing is given in their own section
+for  each chatbot's prompt detailing is given in their own section.
